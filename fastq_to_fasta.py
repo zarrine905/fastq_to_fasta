@@ -1,4 +1,6 @@
-
+#Script: Conversion of fastq file to fasta format
+#Author: Zarrine 
+#Date: 30/05/2021
 
 fh = open("test.fastq","r")
 
